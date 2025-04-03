@@ -34,5 +34,5 @@ This project analyzes AI research trends using arXiv data. The analysis covers:
 ## Installation  
 1️⃣ Clone the repo:  
    ```sh
-   git clone [GitHub Link]
+   git clone https://github.com/royce-swe/AI-Boom-Analysis/tree/main
    cd AI-Research-Trends
